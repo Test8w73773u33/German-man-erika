@@ -1,9 +1,9 @@
 const config = {
   challenge: true, // Set to true if you want to enable password protection.
   users: {
-    lebron,
     // You can add multiple users by doing username: 'password'.
-    interstellar: "germanpaint-erika",
+    hitler: "germanpaint-erika",
+    john: "Johnloveskids",
   },
 };
 
